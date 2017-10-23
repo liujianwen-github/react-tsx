@@ -1,0 +1,12 @@
+{
+    "name": "tsx-hello",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "webpack-dev-server --inline --config build/webpack.config.js --content-base build --open"
+    },
+    "author": "",
+    "license": "ISC"
+}
